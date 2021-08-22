@@ -2,5 +2,6 @@ title: 二当家的白帽子
 description: 放弃不难，但坚持一定很酷！
 show_downloads: false
 google_analytics:
-github.is_user_page: false
+github:
+  is_user_page: false
 theme: jekyll-theme-architect
