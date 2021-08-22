@@ -18,3 +18,10 @@ a.juejin
   margin-bottom: 20px;
   background: transparent url("https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/dcec27cc6ece0eb5bb217e62e6bec104.svg") 0 0 no-repeat;
 }
+
+header a.qrcode {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: transparent url(../images/qrcode.jpg) 0 0 no-repeat;
+}
